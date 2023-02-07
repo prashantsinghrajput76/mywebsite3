@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+header{
+    background-image: url(../1.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+     
+}
+ul{
+    float: right;
+    list-style-type: circle;
+    margin-top: 25px;
+
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color:rgb(1, 247, 54);
+    padding: 6px 21px;
+    border: 2px solid rgb(247, 10, 10);
+    
+}
+ul li a:hover {
+    background-color: #fff;
+    color: black;
+    transition: 0.6s ease;
+
+
+}
+.PS{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.PS h3{
+    font-size: 30px;
+    color: rgb(61, 235, 8);
+
+=
+}
+.tab{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+    
+}
+.tab1{
+    border: 1px solid#fff;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    
+}
+.tab1:hover{
+    background-color: #fff;
+    color: black;
+    transition: 0.6s ease;
+
+
+}
+.tab2{
+    border: 1px solid#fff;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    
+}
+.tab2:hover{
+    background-color: #fff;
+    color: black;
+    transition: 0.6s ease;
+
+   
+
+
+}

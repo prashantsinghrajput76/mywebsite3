@@ -1,0 +1,22 @@
+h2{
+    float: center;
+    color: rgb(255, 60, 0);
+    
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    border: 5px solid greenyellow;
+}
+h4{
+    float: center;
+    color: rgb(68, 0, 255);
+}
+h5{
+    float: center;
+    color: rgb(38, 0, 255);
+}
+h3{
+    float: center;
+    color: rgb(255, 0, 212);
+}
