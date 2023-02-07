@@ -5,7 +5,7 @@
 
 }
 header{
-    background-image: url(../1.jpg);
+    background-image: url('https://images.unsplash.com/photo-1559163387-e46e8dcb27f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTR8NDM3MDcyN3x8ZW58MHx8fHw%3D&w=1000&q=80');
     height: 100vh;
     background-size: cover;
     background-position: center;
